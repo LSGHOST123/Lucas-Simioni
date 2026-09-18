@@ -1,0 +1,6 @@
+{
+  "name": "LSGHOST - Lucas Simioni",
+  "description": "Hub oficial de produtos digitais, e-books, packs virais e apps de alta performance de Lucas Simioni (LSGHOST).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
